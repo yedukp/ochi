@@ -1,0 +1,7 @@
+@font-face {
+    font-family: lays;
+    src: url('../fonts/NeueMontreal-Regular.ttf');
+}
+.nav{
+    font-family: lays;
+}

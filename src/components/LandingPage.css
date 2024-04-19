@@ -1,0 +1,47 @@
+@font-face {
+    font-family: bingo;
+    src: url('../fonts/FoundersGrotesk-Semibold.ttf');
+}
+@font-face {
+    font-family: lays;
+    src: url('../fonts/NeueMontreal-Regular.ttf');
+}
+.masker{
+    font-family: bingo;
+}
+.card__btn {
+    width: 160px;
+    height: 35px;
+    border: 2px solid #000;
+    border-radius: 50px;
+    font-size: 14px;
+    font-family: lays;
+    font-weight: 500;
+    color: #000;
+    background: rgb(235, 235, 235);
+    text-transform: uppercase;
+    transition: all 0.3s;
+}
+  .card__btn:hover {
+    background: #000;
+    color: #fff;
+}  
+.zz{
+    background-color: rgb(235, 235, 235);
+}
+.arrow{
+    border: 1px solid;
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(235, 235, 235);
+    margin-left: 10px;
+    transition: all ease 0.5s;
+}
+.arrow:hover{
+    background: #000;
+    color: #fff;
+}

@@ -1,0 +1,10 @@
+.eyesmain{
+    background-image: url('https://ochi.design/wp-content/uploads/2022/05/Top-Viewbbcbv-1-scaled.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.theeyes{
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
